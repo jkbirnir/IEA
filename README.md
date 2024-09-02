@@ -1,8 +1,8 @@
 # electionhouse
+
 # Indonesian election archive
 
-#This archive contains data described in the paper: 
-#Indonesian election archive: Institutions, candidates and results.
+#This archive contains data described in the paper: #Indonesian election archive: Institutions, candidates and results.
 
 Please cite as:
 

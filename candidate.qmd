@@ -1,0 +1,13 @@
+---
+title: "Pre-election information"
+---
+
+The below table replicates Table #... in the paper. Each law can be accessed by clicking on the pertinent link.
+
+## Candidates
+
+| Election | President | DPR | DPD | DPRD-I | DPRD-II |
+|----------|-----------|-----|-----|--------|---------|
+| 2014     |           |     |     |        |         |
+| 2019     |           |     |     |        |         |
+| 2024     |           |     |     |        |         |
