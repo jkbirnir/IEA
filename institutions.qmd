@@ -5,7 +5,7 @@ title: "Institutions"
 The below table replicates Table #... in the paper. Each law can be accessed by clicking on the pertinent link.
 
 | Office            | Col2 | Current                            | Prior | Prior | Prior | Col7 |
-|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|-------------------|------|------------------------------------|-------|-------|-------|------|
 | President         |      | [7/2017](Law/UU.7.2017.Indo.pdf)   |       |       |       |      |
 | DPR               |      | [7/2017](Law/UU.7.2017.Indo.pdf)   |       |       |       |      |
 | DPD               |      | [7/2017](Law/UU.7.2017.Indo.pdf)   |       |       |       |      |
