@@ -4,18 +4,12 @@ title: "Post-election information"
 
 The below table replicates Tables #... and #.... in the paper. Each law can be accessed by clicking on the pertinent link.
 
-## Candidates
+## Results - parties and candidates by district
 
-| Election | President | DPR | DPD | DPRD-I | DPRD-II |
-|----------|-----------|-----|-----|--------|---------|
-| 2014     |           |     |     |        |         |
-| 2019     |           |     |     |        |         |
-| 2024     |           |     |     |        |         |
+| Election | President and VP | DPR | DPD | 
+|----------|------------------|-----|-----|
+| 2014     |                  |     |     |     
+| 2019     |                  |     |     |       
+| 2024     |                  |     |     |       
 
-## Parties
 
-| Election | President | DPR | DPD | DPRD-I | DPRD-II |
-|----------|-----------|-----|-----|--------|---------|
-| 2014     |           |     |     |        |         |
-| 2019     |           |     |     |        |         |
-| 2024     |           |     |     |        |         |

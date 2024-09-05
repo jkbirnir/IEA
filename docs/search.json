@@ -18,7 +18,7 @@
     "href": "institutions.html",
     "title": "Institutions",
     "section": "",
-    "text": "The below table replicates Table #… in the paper. Each law can be accessed by clicking on the pertinent link.\n\n\n\nOffice\nCol2\nCurrent\nPrior\nPrior\nPrior\nCol7\n\n\n\n\nPresident\n\n7/2017\n\n\n\n\n\n\nDPR\n\n7/2017\n\n\n\n\n\n\nDPD\n\n7/2017\n\n\n\n\n\n\nDPRD-I\n\n7/2017\n\n\n\n\n\n\nDPRD-II\n\n7/2017\n\n\n\n\n\n\nGovernor\n\n10/2016\n\n\n\n\n\n\nRegent/Mayor\n\n10/2016\n\n\n\n\n\n\nPolitical Parties\n\n2/2011"
+    "text": "The below table replicates Table #… in the paper. Each law can be accessed by clicking on the pertinent link. Unofficial English translations are linked below the law where available).\n\n\n\nOffice\nCurrent\nPrior\nPrior\nPrior\nPrior\n\n\n\n\nPresident\n7/2017\n8/2012\n42/2008\n23/2003\n\n\n\nDPR\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nDPD\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nDPRD-I\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nDPRD-II\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nGovernor\n10/2016\n1/2015\n22/2014\n32/2004\n4/1999\n\n\nRegent/Mayor\n10/2016\n1/2015\n22/2014\n32/2004\n22/1999\n\n\nPolitical Parties\n2/2011\n\n2/2008\n31/2002\n2/1999"
   },
   {
     "objectID": "candidate.html",
@@ -32,7 +32,7 @@
     "href": "candidate.html#candidates",
     "title": "Pre-election information",
     "section": "Candidates",
-    "text": "Candidates\n\n\n\nElection\nPresident\nDPR\nDPD\nDPRD-I\nDPRD-II\n\n\n\n\n2014\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n2024"
+    "text": "Candidates\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\n\n\n\n\n\n2019\n\n\n\n\n\n2024"
   },
   {
     "objectID": "results.html",
@@ -54,5 +54,12 @@
     "title": "Post-election information",
     "section": "Parties",
     "text": "Parties\n\n\n\nElection\nPresident\nDPR\nDPD\nDPRD-I\nDPRD-II\n\n\n\n\n2014\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n2024"
+  },
+  {
+    "objectID": "candidate.html#candidates---by-district",
+    "href": "candidate.html#candidates---by-district",
+    "title": "Pre-election information",
+    "section": "Candidates - by district",
+    "text": "Candidates - by district\n\n\n\nElection\nPresident\nDPR\nDPD\n\n\n\n\n2014\n\n\n\n\n\n2019\n\n\n\n\n\n2024"
   }
 ]
