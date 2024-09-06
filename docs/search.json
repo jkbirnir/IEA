@@ -25,7 +25,7 @@
     "href": "candidate.html",
     "title": "Pre-election information",
     "section": "",
-    "text": "The below table replicates Table #… in the paper. Results for each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent link. The information for a given level is standardized and includes election year, office and district identifiers. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined. ## Candidates\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\n\n\n\n\n\n2019\n\n\n\n\n\n2024"
+    "text": "The below table replicates Table #… in the paper. Results for each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent link. The information for a given level is standardized and includes election year, office and district identifiers. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
   },
   {
     "objectID": "candidate.html#candidates",
@@ -39,7 +39,7 @@
     "href": "results.html",
     "title": "Post-election information",
     "section": "",
-    "text": "The below tables replicate Tables #… and #…. in the paper. Results for each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent link. The information for a given level is standardized and includes election year, office and district identifiers. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
+    "text": "The below tables replicate Tables #… and #…. in the paper and include information on candidates and parties separately. Results for candidates and parties at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent link. The information for a given level is standardized and includes election year, office and district identifiers. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
   },
   {
     "objectID": "results.html#candidates",

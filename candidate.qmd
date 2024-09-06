@@ -3,6 +3,7 @@ title: "Pre-election information"
 ---
 
 The below table replicates Table #... in the paper. Results for each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent link.  The information for a given level is standardized and includes election year, office and district identifiers.  For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined.
+
 ## Candidates
 
 | Election | President and VP | DPR | DPD |
