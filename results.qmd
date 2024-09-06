@@ -2,14 +2,22 @@
 title: "Post-election information"
 ---
 
-The below table replicates Tables #... and #.... in the paper. Each law can be accessed by clicking on the pertinent link.
+The below tables replicate Tables #... and #.... in the paper. Results for each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent link.  The information for a given level is standardized and includes election year, office and district identifiers.  For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined.
 
-## Results - parties and candidates by district
+## Candidates
 
-| Election | President and VP | DPR | DPD | 
+| Election | President and VP | DPR | DPD |
 |----------|------------------|-----|-----|
-| 2014     |                  |     |     |     
-| 2019     |                  |     |     |       
-| 2024     |                  |     |     |       
+| 2014     |                  |     |     |
+| 2019     |                  |     |     |
+| 2024     |                  |     |     |
+
+## Parties
+
+| Election | President and VP | DPR | DPD |
+|----------|------------------|-----|-----|
+| 2014     |                  |     |     |
+| 2019     |                  |     |     |
+| 2024     |                  |     |     |
 
 

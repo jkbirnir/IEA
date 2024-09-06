@@ -18,14 +18,14 @@
     "href": "institutions.html",
     "title": "Institutions",
     "section": "",
-    "text": "The below table replicates Table #… in the paper. Each law can be accessed by clicking on the pertinent link. Unofficial English translations are linked below the law where available).\n\n\n\nOffice\nCurrent\nPrior\nPrior\nPrior\nPrior\n\n\n\n\nPresident\n7/2017\n8/2012\n42/2008\n23/2003\n\n\n\nDPR\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nDPD\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nDPRD-I\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nDPRD-II\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nGovernor\n10/2016\n1/2015\n22/2014\n32/2004\n4/1999\n\n\nRegent/Mayor\n10/2016\n1/2015\n22/2014\n32/2004\n22/1999\n\n\nPolitical Parties\n2/2011\n\n2/2008\n31/2002\n2/1999"
+    "text": "The below table replicates Table #… in the paper. Each law can be accessed by clicking on the pertinent link. (Unofficial English translations are linked below the law where available).\n\n\n\nOffice\nCurrent\nPrior\nPrior\nPrior\nPrior\n\n\n\n\nPresident\n7/2017\n8/2012\n42/2008\n23/2003\n\n\n\nDPR\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nDPD\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nDPRD-I\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nDPRD-II\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999\n\n\nGovernor\n10/2016\n1/2015\n22/2014\n32/2004\n4/1999\n\n\nRegent/Mayor\n10/2016\n1/2015\n22/2014\n32/2004\n22/1999\n\n\nPolitical Parties\n2/2011\n\n2/2008\n31/2002\n2/1999"
   },
   {
     "objectID": "candidate.html",
     "href": "candidate.html",
     "title": "Pre-election information",
     "section": "",
-    "text": "The below table replicates Table #… in the paper. Each law can be accessed by clicking on the pertinent link."
+    "text": "The below table replicates Table #… in the paper. Results for each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent link. The information for a given level is standardized and includes election year, office and district identifiers. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined. ## Candidates\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\n\n\n\n\n\n2019\n\n\n\n\n\n2024"
   },
   {
     "objectID": "candidate.html#candidates",
@@ -39,21 +39,21 @@
     "href": "results.html",
     "title": "Post-election information",
     "section": "",
-    "text": "The below table replicates Tables #… and #…. in the paper. Each law can be accessed by clicking on the pertinent link."
+    "text": "The below tables replicate Tables #… and #…. in the paper. Results for each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent link. The information for a given level is standardized and includes election year, office and district identifiers. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
   },
   {
     "objectID": "results.html#candidates",
     "href": "results.html#candidates",
     "title": "Post-election information",
     "section": "Candidates",
-    "text": "Candidates\n\n\n\nElection\nPresident\nDPR\nDPD\nDPRD-I\nDPRD-II\n\n\n\n\n2014\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n2024"
+    "text": "Candidates\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\n\n\n\n\n\n2019\n\n\n\n\n\n2024"
   },
   {
     "objectID": "results.html#parties",
     "href": "results.html#parties",
     "title": "Post-election information",
     "section": "Parties",
-    "text": "Parties\n\n\n\nElection\nPresident\nDPR\nDPD\nDPRD-I\nDPRD-II\n\n\n\n\n2014\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n2024"
+    "text": "Parties\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\n\n\n\n\n\n2019\n\n\n\n\n\n2024"
   },
   {
     "objectID": "candidate.html#candidates---by-district",
