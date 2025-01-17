@@ -67,7 +67,7 @@
     "href": "results.html#votes-for-presidential-candidates-and-parties",
     "title": "Post-election results",
     "section": "Votes for Presidential Candidates and Parties",
-    "text": "Votes for Presidential Candidates and Parties\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\nPresVpresProvince14\nDPR_District14\nDPD_Province14\n\n\n2019\nPresVpresProvince19\nDPR_District14\nDPD_Province14\n\n\n2024\nPresVpresProvince24\nDPR_District14\nDPD_Province14"
+    "text": "Votes for Presidential Candidates and Parties\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\nPresVpres_Province_2014\nDPR_District_2014\nDPD_Province_2014\n\n\n2019\nPresVpres_Province_2019\nDPR_District_2014\nDPD_Province_2019\n\n\n2024\nPresVpres_Province_2024\nDPR_District_2024\nDPD_Province_2024"
   },
   {
     "objectID": "institutions.html#institutions",
