@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: Indonesia Election Archive
+  navbar:
+    background: red
+    foreground: white
+    left:
+      - text: "Home"
+        href: index.qmd #href	Link to file contained with the project or external URL.
+      - text: "Institutions"
+        href: institutions.qmd
+      - text: "Pre-election candidate data"
+        href: candidate.qmd
+      - text: "Post-election results"
+        href: results.qmd
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+  
+  
+  
