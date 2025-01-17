@@ -2,14 +2,20 @@
 title: "Indonesia Election Archive"
 ---
 
-The data available here is described in further detail in the accompanying paper, which can be cited as:
+The data available here is described in further detail in the accompanying paper, which should be cited as:
 
-Khoirunnisa Agustyati, Heroik Pratama, Fadli Ramadhanil, Johanna K. Birnir, Henry Overos and Amalinda Savirani. 2024. **Indonesian election archive: Institutions, candidates and results.** *Working paper.*
+Khoirunnisa Agustyati, Heroik Pratama, Fadli Ramadhanil, Jóhanna K. Birnir, Henry Overos and Amalinda Savirani. 2024. **Indonesian election archive: Institutions, candidates and results.** *Working paper.*
+
+The paper is available here:
 
 **PAPER LINK**
 
-The code used to generate the descriptives and the spatial illustrations of the data are all available below.
+The code used to generate the descriptives and the spatial illustrations of the data are all available here:
 
 **REPLICATION CODE**
+
+Finally, the codebook pertaining to the pre-election candidate data and post-election results is available here:
+
+[Codebook.V1](Codebook.V1.pdf)
 
 © 2024 Jóhanna K Birnir.
