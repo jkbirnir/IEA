@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Indonesia Election Archive",
+    "section": "",
+    "text": "The data available here is described in further detail in the accompanying paper, which can be cited as:\nKhoirunnisa Agustyati, Heroik Pratama, Fadli Ramadhanil, Johanna K. Birnir, Henry Overos and Amalinda Savirani. 2024. Indonesian election archive: Institutions, candidates and results. Working paper.\nPAPER LINK\n© 2024 Jóhanna K Birnir."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "institutions.html",
+    "href": "institutions.html",
+    "title": "Institutions",
+    "section": "",
+    "text": "The below tables is represented by Figure … in the paper and includes information on the law regulating elections by office and whether the law is current or regulated earlier elections. Additionally, the last row contains laws on political parties as these regulate candidate nominations and organization of parties competing in elections. Each law can be accessed by clicking on the pertinent link. (Unofficial English translations are linked below the law where available).\n\n\n\nOffice\nCurrent\nPrior\nPrior\nPrior\nPrior\n\n\n\n\nPresident\n7/2017 Unofficial.Engl\n8/2012 Unofficial.Engl\n42/2008\n23/2003 Unofficial.Engl\n\n\n\nDPR\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999 Unofficial.Engl\n\n\nDPD\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999 Unofficial.Engl\n\n\nDPRD-I\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999 Unofficial.Engl\n\n\nDPRD-II\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999 Unofficial.Engl\n\n\nGovernor\n10/2016\n1/2015\n22/2014\n32/2004\n4/1999 Unofficial.Engl\n\n\nRegent/Mayor\n10/2016\n1/2015\n22/2014\n32/2004\n22/1999\n\n\nPolitical Parties\n2/2011\n\n2/2008\n31/2002\n2/1999 Unofficial.Engl"
+  },
+  {
+    "objectID": "candidate.html",
+    "href": "candidate.html",
+    "title": "Pre-election information",
+    "section": "",
+    "text": "The below tables is represented by Figure … in the paper and includes national level information on candidates competing for the office of the President and Vice President, district level information for the lower chamber of the legislature (DPR), and provincial level for the upper level of the legislature (DPD). Information for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifyers including election year, name of office, provincial level identifiers and where relevant district level identifiers as articulated in version 1 (V1) of the Codebook.V1. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
+  },
+  {
+    "objectID": "candidate.html#candidates",
+    "href": "candidate.html#candidates",
+    "title": "Pre-election information",
+    "section": "Candidates",
+    "text": "Candidates\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\nPresVPres_National_2014\nDPR_District_2014\nDPD_Province_2014\n\n\n2019\nPresVPres_National_2019\nDPR_District_2019\nDPD_Province_2019\n\n\n2024\nPresVPres_National_2024\nDPR_District_2024\nDPD_Province_2024"
+  },
+  {
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "Post-election information",
+    "section": "",
+    "text": "The below tables is represented by Figure … in the paper and includes information on provincial level votes cast for candidates competing for the office of the President and Vice President, district level votes for parties fielding candidates competing for seats to the lower chamber of the legislature (DPR), and provincial level votes for the upper level of the legislature (DPD). Results for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifiers including election year, name of office, provincial level identifyers and where relevant district level identifiers as articulated in version 1 (V1) of the Codebook.V1.. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
+  },
+  {
+    "objectID": "results.html#candidates",
+    "href": "results.html#candidates",
+    "title": "Post-election information",
+    "section": "Candidates",
+    "text": "Candidates\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\n\n\n\n\n\n2019\n\n\n\n\n\n2024"
+  },
+  {
+    "objectID": "results.html#parties",
+    "href": "results.html#parties",
+    "title": "Post-election information",
+    "section": "Parties",
+    "text": "Parties\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\n\n\n\n\n\n2019\n\n\n\n\n\n2024"
+  },
+  {
+    "objectID": "candidate.html#candidates---by-district",
+    "href": "candidate.html#candidates---by-district",
+    "title": "Pre-election information",
+    "section": "Candidates - by district",
+    "text": "Candidates - by district\n\n\n\nElection\nPresident\nDPR\nDPD\n\n\n\n\n2014\n\n\n\n\n\n2019\n\n\n\n\n\n2024"
+  },
+  {
+    "objectID": "results.html#votes-for-presidential-candidates-and-parties",
+    "href": "results.html#votes-for-presidential-candidates-and-parties",
+    "title": "Post-election information",
+    "section": "Votes for Presidential Candidates and Parties",
+    "text": "Votes for Presidential Candidates and Parties\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\nPresVpresProvince14\nDPR_District14\nDPD_Province14\n\n\n2019\nPresVpresProvince19\nDPR_District14\nDPD_Province14\n\n\n2024\nPresVpresProvince24\nDPR_District14\nDPD_Province14"
+  }
+]
