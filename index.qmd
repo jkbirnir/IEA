@@ -8,4 +8,8 @@ Khoirunnisa Agustyati, Heroik Pratama, Fadli Ramadhanil, Johanna K. Birnir, Henr
 
 **PAPER LINK**
 
+The code used to generate the descriptives and the spatial illustrations of the data are all available below.
+
+**REPLICATION CODE**
+
 © 2024 Jóhanna K Birnir.
