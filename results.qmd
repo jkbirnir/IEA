@@ -2,12 +2,12 @@
 title: "Post-election information"
 ---
 
-The below tables is represented by Figure ... in the paper and includes information on provincial level votes cast for candidates competing for the office of the President and Vice President, district level votes for parties fielding candidates competing for seats to the lower chamber of the legislature (DPR), and provincial level votes for the upper level of the legislature (DPD). Results for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifiers including election year, name of office, provincial level identifyers and where relevant district level identifiers as articulated in version 1 (V1) of the [Codebook.V1](Codebook.V1.Pdf).. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined.
+The below tables is represented by Figure ... in the paper and includes information on provincial level votes cast for candidates competing for the office of the President and Vice President, district level votes for parties fielding candidates competing for seats to the lower chamber of the legislature (DPR), and provincial level votes for the upper level of the legislature (DPD). Results for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifiers including election year, name of office, provincial level identifyers and where relevant district level identifiers as articulated in version 1 (V1) of the [Codebook.V1](Codebook.V1.Pdf). For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined.
 
 ## Votes for Presidential Candidates and Parties
 
 | Election | President and VP | DPR | DPD |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | 2014 | [PresVpresProvince14](Results/.csv) | [DPR_District14](Results/.csv) | [DPD_Province14](Results/.csv) |
 | 2019 | [PresVpresProvince19](Results/.csv) | [DPR_District14](Results/.csv) | [DPD_Province14](Results/.csv) |
 | 2024 | [PresVpresProvince24](Results/.csv) | [DPR_District14](Results/.csv) | [DPD_Province14](Results/.csv) |
