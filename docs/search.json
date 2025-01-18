@@ -18,14 +18,14 @@
     "href": "institutions.html",
     "title": "Institutions",
     "section": "",
-    "text": "The below tables is represented by Figure … in Agustyati et.al. (nd) and includes information on the law regulating elections by office and whether the law is current or regulated earlier elections. Additionally, the last row contains laws on political parties as these regulate candidate nominations and organization of parties competing in elections. Each law can be accessed by clicking on the pertinent link. (Unofficial English translations (U.E) are linked below the law where available)."
+    "text": "The below tables is represented by Figure 4 in Agustyati et.al. (nd) and includes information on the law regulating elections by office and whether the law is current or regulated earlier elections. Additionally, the last row contains laws on political parties as these regulate candidate nominations and organization of parties competing in elections. Each law can be accessed by clicking on the pertinent link. (Unofficial English translations (U.E) are linked below the law where available)."
   },
   {
     "objectID": "candidate.html",
     "href": "candidate.html",
     "title": "Pre-election candidate information",
     "section": "",
-    "text": "The below tables is represented by Figure … in Agustyati et.al. (nd) and includes national level information on candidates competing for the office of the President and Vice President, district level information for the lower chamber of the legislature (DPR), and provincial level information for the upper level of the legislature (DPD). Information for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifiers including election year, name of office, provincial level identifiers and where relevant district level identifiers as articulated in version 1 (V1) of the Codebook.V1. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
+    "text": "The below tables is represented by Figure 6 in Agustyati et.al. (nd) and includes national level information on candidates competing for the office of the President and Vice President, district level information for the lower chamber of the legislature (DPR), and provincial level information for the upper level of the legislature (DPD). Information for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifiers including election year, name of office, provincial level identifiers and where relevant district level identifiers as articulated in version 1 (V1) of the Codebook.V1. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
   },
   {
     "objectID": "candidate.html#candidates",
@@ -39,7 +39,7 @@
     "href": "results.html",
     "title": "Post-election results",
     "section": "",
-    "text": "The below tables is represented by Figure … in Agustyati et.al. (nd) and includes information on provincial level votes cast for candidates competing for the office of the President and Vice President, district level votes for parties fielding candidates competing for seats to the lower chamber of the legislature (DPR), and provincial level votes for the upper level of the legislature (DPD). Results for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifiers including election year, name of office, provincial level identifiers and where relevant district level identifiers as articulated in version 1 (V1) of the Codebook.V1. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
+    "text": "The below tables is represented by Figure 7 in Agustyati et.al. (nd) and includes information on provincial level votes cast for candidates competing for the office of the President and Vice President, district level votes for parties fielding candidates competing for seats to the lower chamber of the legislature (DPR), and provincial level votes for the upper level of the legislature (DPD). Results for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifiers including election year, name of office, provincial level identifiers and where relevant district level identifiers as articulated in version 1 (V1) of the Codebook.V1. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
   },
   {
     "objectID": "results.html#candidates",
