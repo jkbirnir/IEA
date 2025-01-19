@@ -4,6 +4,10 @@ title: "Institutions"
 
 The below tables is represented by Figure 4 in Agustyati et.al. (nd) and includes information on the law regulating elections by office and whether the law is current or regulated earlier elections. Additionally, the last row contains laws on political parties as these regulate candidate nominations and organization of parties competing in elections. Each law can be accessed by clicking on the pertinent link. (Unofficial English translations (U.E) are linked alongside the law where available).
 
+**ALL LINKS WILL BE LIVE AT PUBLICATION.**
+
+## Institutions
+
 | Office | Current | Prior | Prior | Prior | Prior |
 |------------|------------|------------|------------|------------|------------|
 | President | [7/2017](Law/UU.7.2017.Indo.pdf) [U.E](Law/Law.No.7.2017.Engl.pdf) | [8/2012](Law/UU.8.2012.Indo.pdf) [U.E](Law/Law.8.2012.Engl.pdf) | [42/2008](Law/UU.42.2008.Indo.pdf)       | [23/2003](Law/UU.23.2003.Indo.pdf) [U.E](Law/Law.23.2003.Engl.pdf.Engl.pdf) |  |
