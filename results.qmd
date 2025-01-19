@@ -8,6 +8,6 @@ The below tables is represented by Figure 7 in Agustyati et.al. (nd) and include
 
 | Election | President and VP | DPR | DPD |
 |------------------|------------------|------------------|------------------|
-| 2014 | [PresVpres_Province_2014](Results/.csv) | [DPR_District_2014](Results/.csv) | [DPD_Province_2014](Results/.csv) |
-| 2019 | [PresVpres_Province_2019](Results/.csv) | [DPR_District_2014](Results/.csv) | [DPD_Province_2019](Results/.csv) |
-| 2024 | [PresVpres_Province_2024](Results/.csv) | [DPR_District_2024](Results/.csv) | [DPD_Province_2024](Results/.csv) |
+| 2014 | [PresVpres_Province_2014](Results/PresVpres_Province_2014.csv) | [DPR_District_2014](Results/.csv) | [DPD_Province_2014](Results/.csv) |
+| 2019 | [PresVpres_Province_2019](Results/PresVpres_Province_2019.csv) | [DPR_District_2014](Results/.csv) | [DPD_Province_2019](Results/.csv) |
+| 2024 | [PresVpres_Province_2024](Results/PresVpres_Province_2024.csv) | [DPR_District_2024](Results/.csv) | [DPD_Province_2024](Results/.csv) |
