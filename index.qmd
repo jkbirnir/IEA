@@ -8,16 +8,15 @@ Khoirunnisa Agustyati, Heroik Pratama, Jóhanna K. Birnir, Henry Overos, Fadli R
 
 The paper is available here:
 
-**PAPER LINK** 
-
-**ALL LINKS WILL GO LIVE AT PUBLICATION**
+**PAPER LINK HERE** 
 
 The code used to generate the descriptives and the spatial illustrations of the data are all available here:
 
-**REPLICATION CODE** 
+**REPLICATION CODE HERE** 
 
 Finally, the codebook pertaining to the pre-election candidate data and post-election results is available here:
 
 [Codebook.V1](Codebook.V1.pdf)
+
 
 © 2024 Jóhanna K Birnir.
