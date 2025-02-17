@@ -4,12 +4,10 @@ title: "Pre-election candidate information"
 
 The below table is represented by Figure 6 in Agustyati et.al. (nd) and includes national level information on candidates competing for the office of the President and Vice President, district level information for the lower chamber of the legislature (DPR), and provincial level information for the upper level of the legislature (DPD). Information for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifiers including election year, name of office, provincial level identifiers and where relevant district level identifiers as articulated in version 1 (V1) of the [Codebook.V1](Codebook.V1.pdf). For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined.
 
-**ALL LINKS WILL BE LIVE AT PUBLICATION.**
-
-## Candidates 
+## Candidates
 
 | Election | President and VP | DPR | DPD |
-|-----------------|---------------------|-----------------|-----------------|
-| 2014 | [PresVPres_National_2014](Candidates/PresVP_candidates_2014.csv) | [DPR_District_2014](Candidates/DPR_candidates_2014.csv) | [DPD_Province_2014](Candidates/DPD_candidates_2014.csv) |
-| 2019 | [PresVPres_National_2019](Candidates/PresVP_candidates_2014.csv) | [DPR_District_2019](Candidates/DPR_candidates_2019.csv) | [DPD_Province_2019](Candidates/DPD_candidates_2019.csv) |
-| 2024 | [PresVPres_National_2024](Candidates/PresVP_candidates_2014.csv) | [DPR_District_2024](Candidates/DPR_candidates_2024.csv) | [DPD_Province_2024](Candidates/DPD_candidates_2024.csv) |
+|----|----|----|----|
+| 2014 | [PresVPres_NatCand_2014](Candidates/PresVP_candidates_2014.csv) | [DPR_DistCand_2014](Candidates/DPR_candidates_2014.csv) | [DPD_ProvCand_2014](Candidates/DPD_candidates_2014.csv) |
+| 2019 | [PresVPres_NatCand_2019](Candidates/PresVP_candidates_2014.csv) | [DPR_DistCand_2019](Candidates/DPR_candidates_2019.csv) | [DPD_ProvCand_2019](Candidates/DPD_candidates_2019.csv) |
+| 2024 | [PresVPres_NatCand_2024](Candidates/PresVP_candidates_2014.csv) | [DPR_DistCand_2024](Candidates/DPR_candidates_2024.csv) | [DPD_ProvCand_2024](Candidates/DPD_candidates_2024.csv) |
