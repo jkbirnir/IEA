@@ -6,10 +6,10 @@ The below tables is represented by Figure 7 in Agustyati et.al. (nd) and include
 
 **ALL LINKS WILL BE LIVE AT PUBLICATION.**
 
-## Results 
+## Results
 
 | Election | President and VP | DPR | DPD |
-|------------------|------------------|------------------|------------------|
-| 2014 | [PresVpres_Province_2014](Results/PresVpres_Province_2014.csv) | [DPR_District_2014](Results/DPR_District_2014.csv) | [DPD_Province_2014](Results/.csv) |
-| 2019 | [PresVpres_Province_2019](Results/PresVpres_Province_2019.csv) | [DPR_District_2014](Results/.csv) | [DPD_Province_2019](Results/.csv) |
-| 2024 | [PresVpres_Province_2024](Results/PresVpres_Province_2024.csv) | [DPR_District_2024](Results/.csv) | [DPD_Province_2024](Results/.csv) |
+|----|----|----|----|
+| 2014 | [PresVpres_ProvRes_2014](Results/PresVpres_Province_Results_2014.csv) | [DPR_DistRes_2014](Results/DPR_District_Results_2014.csv) | [DPD_ProvRes_2014](Results/DPD_Province_Results_2014.csv) |
+| 2019 | [PresVpres_ProvRes_2019](Results/PresVpres_Province_Results_2019.csv) | [DPR_DistRes_2019](Results/DPR_District_Results_2019.csv) | [DPD_ProvRes_2019](Results/DPD_Province_Results_2019.csv) |
+| 2024 | [PresVpres_ProvRes_2024](Results/PresVpres_Province_Results_2024.csv) | [DPR_DistRes_2024](Results/DPR_District_Results_2024.csv) | [DPD_ProvRes_2024](Results/DPD_Province_Results_2024.csv) |

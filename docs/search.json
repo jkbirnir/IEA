@@ -81,7 +81,7 @@
     "href": "results.html#results",
     "title": "Post-election results",
     "section": "Results",
-    "text": "Results\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\nPresVpres_Province_2014\nDPR_District_2014\nDPD_Province_2014\n\n\n2019\nPresVpres_Province_2019\nDPR_District_2014\nDPD_Province_2019\n\n\n2024\nPresVpres_Province_2024\nDPR_District_2024\nDPD_Province_2024"
+    "text": "Results\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\nPresVpres_ProvRes_2014\nDPR_DistRes_2014\nDPD_ProvRes_2014\n\n\n2019\nPresVpres_ProvRes_2019\nDPR_DistRes_2019\nDPD_ProvRes_2019\n\n\n2024\nPresVpres_ProvRes_2024\nDPR_DistRes_2024\nDPD_ProvRes_2024"
   },
   {
     "objectID": "results.html#results-all-links-will-go-live-at-publication",
