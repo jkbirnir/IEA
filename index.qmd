@@ -4,7 +4,7 @@ title: "Indonesia Election Archive"
 
 The data available here is described in further detail in the accompanying paper, which should be cited as:
 
-Khoirunnisa Agustyati, Heroik Pratama, Jóhanna K. Birnir, Henry Overos, Fadli Ramadhanil, and Amalinda Savirani. 2024. **Indonesian election archive: Institutions, candidates and results.** *Working paper.*
+Khoirunnisa Agustyati, Heroik Pratama, Jóhanna K. Birnir, Henry Overos, Noory Okthariza, Fadli Ramadhanil, and Amalinda Savirani. 2024. **Indonesian election archive: Institutions, candidates and results.** *Working paper.*
 
 **ALL LINKS WILL BE LIVE AT PUBLICATION.**
 
