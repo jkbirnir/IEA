@@ -1,0 +1,10 @@
+---
+title: "DPD"
+---
+
+The information provided here pertains to the Upper House of the National Legislature. The files contain information on candidates and results. The data are described in the codebook and organized here by administrative granularity and temporal coverage.
+
+| Administrative Unit | Years (inclusive) | File type          |
+|---------------------|-------------------|--------------------|
+| Province            | 2014-2024         | [CSV](DPD.csv) |
+|                     |                   |                    |

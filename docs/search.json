@@ -61,5 +61,54 @@
     "title": "Institutions",
     "section": "",
     "text": "The below organization of election law corresponds to Table 4 in Agustyati et al.\nThe entire collection can be downloaded here: Election Law. Individual texts can also be downloaded by clicking on the corresponding links in the table. Unofficial English translations are provided where available.\n\n\n\nOffice\nCurrent\nPrior\nPrior\nPrior\nPrior\n\n\n\n\nPresident\n7/2017 U.E\n8/2012 U.E\n42/2008\n23/2003 U.E\n\n\n\nDPR\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999 U.E\n\n\nDPD\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999 U.E\n\n\nDPRD-I\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999 U.E\n\n\nDPRD-II\n7/2017\n8/2012\n10/2008\n12/2003\n3/1999 U.E\n\n\nGovernor\n10/2016\n1/2015\n22/2014 U.E\n32/2004\n\n\n\nRegent/\nMayor\n10/2016\n1/2015\n22/2014\n32/2004\n22/1999\n\n\nPolitical Parties\n2/2011\n\n2/2008\n31/2002\n2/1999 U.E"
+  },
+  {
+    "objectID": "Pres_VP.html",
+    "href": "Pres_VP.html",
+    "title": "President and Vice President",
+    "section": "",
+    "text": "The information provided here pertains to the office of the President and Vice President. The files contain information on candidates and results. The data are described in the codebook and organized here by administrative granularity and temporal coverage.\n\n\n\nAdministrative Unit\nYears (inclusive)\nFile type\n\n\n\n\nProvince\n2014-2024\nCSV"
+  },
+  {
+    "objectID": "ancien/candidate.html",
+    "href": "ancien/candidate.html",
+    "title": "Pre-election candidate information",
+    "section": "",
+    "text": "The below table is represented by Figure 6 in Agustyati et.al. (nd) and includes national level information on candidates competing for the office of the President and Vice President, district level information for the lower chamber of the legislature (DPR), and provincial level information for the upper level of the legislature (DPD). Information for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifiers including election year, name of office, provincial level identifiers and where relevant district level identifiers as articulated in version 1 (V1) of the Codebook.V1. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
+  },
+  {
+    "objectID": "ancien/candidate.html#candidates",
+    "href": "ancien/candidate.html#candidates",
+    "title": "Pre-election candidate information",
+    "section": "Candidates",
+    "text": "Candidates\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\nPresVPres_NatCand_2014\nDPR_DistCand_2014\nDPD_ProvCand_2014\n\n\n2019\nPresVPres_NatCand_2019\nDPR_DistCand_2019\nDPD_ProvCand_2019\n\n\n2024\nPresVPres_NatCand_2024\nDPR_DistCand_2024\nDPD_ProvCand_2024"
+  },
+  {
+    "objectID": "ancien/results.html",
+    "href": "ancien/results.html",
+    "title": "Post-election results",
+    "section": "",
+    "text": "The below tables is represented by Figure 7 in Agustyati et.al. (nd) and includes information on provincial level votes cast for candidates competing for the office of the President and Vice President, district level votes for parties fielding candidates competing for seats to the lower chamber of the legislature (DPR), and provincial level votes for the upper level of the legislature (DPD). Results for each office at each level and election are provided in a separate sheet in a .csv format and can be accessed by clicking on the pertinent hyper-link. The information for a given level includes standardized identifiers including election year, name of office, provincial level identifiers and where relevant district level identifiers as articulated in version 1 (V1) of the Codebook.V1. For longitudinal analysis of multiple elections the information from discrete sheets can, therefore, be easily combined."
+  },
+  {
+    "objectID": "ancien/results.html#results",
+    "href": "ancien/results.html#results",
+    "title": "Post-election results",
+    "section": "Results",
+    "text": "Results\n\n\n\nElection\nPresident and VP\nDPR\nDPD\n\n\n\n\n2014\nPresVpres_ProvRes_2014\nDPR_DistRes_2014\nDPD_ProvRes_2014\n\n\n2019\nPresVpres_ProvRes_2019\nDPR_DistRes_2019\nDPD_ProvRes_2019\n\n\n2024\nPresVpres_ProvRes_2024\nDPR_DistRes_2024\nDPD_ProvRes_2024"
+  },
+  {
+    "objectID": "DPD.html",
+    "href": "DPD.html",
+    "title": "DPD",
+    "section": "",
+    "text": "The information provided here pertains to the Upper House of the National Legislature. The files contain information on candidates and results. The data are described in the codebook and organized here by administrative granularity and temporal coverage.\n\n\n\nAdministrative Unit\nYears (inclusive)\nFile type\n\n\n\n\nProvince\n2014-2024\nCSV"
+  },
+  {
+    "objectID": "DPR.html",
+    "href": "DPR.html",
+    "title": "DPR",
+    "section": "",
+    "text": "The information provided here pertains to the Lower House of the National Legislature. The files contain information on candidates and results. The data are described in the codebook and organized here by administrative granularity and temporal coverage.\n\n\n\nAdministrative Unit\nYears (inclusive)\nFile type\n\n\n\n\nDistrict\n2014-2024\nCSV"
   }
 ]
