@@ -10,8 +10,6 @@ For further project and variable information see:
 
 [Codebook](Codebook.pdf)
 
-The code used to generate the descriptives and the spatial illustrations of the data are all available here:
-
 For generic code for scraping pdf files see:
 
 [File_scraper](generic_scraping.py)
