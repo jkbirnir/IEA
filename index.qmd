@@ -4,7 +4,7 @@ title: "Indonesia Election Archive"
 
 The data available here is described in further detail in the accompanying paper, which should be cited as:
 
-Agustyati, K. N., Pratama, H. M., Birnir, J. K., Overos, H., Okthariza, N., Kholidin, I., Ramadhanil, F., & Savirani, A. (2025). Indonesia Election Archive (IEA). *Scientific Data.* DOI:10.17605/OSF.io/hjqzd
+Agustyati, K. N., Pratama, H. M., Birnir, J. K., Overos, H., Okthariza, N., Kholidin, I., Ramadhanil, F., & Savirani, A. (2025). [Indonesia Election Archive (IEA).](IEA.pdf) Working paper DOI:10.17605/OSF.io/hjqzd
 
 For further project and variable information see:
 

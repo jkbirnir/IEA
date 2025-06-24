@@ -10,12 +10,14 @@ website:
     left:
       - text: "Home"
         href: index.qmd #href	Link to file contained with the project or external URL.
-      - text: "Institutions"
+      - text: "Election Law"
         href: institutions.qmd
-      - text: "Pre-election candidate data"
-        href: candidate.qmd
-      - text: "Post-election results"
-        href: results.qmd
+      - text: "Pres. and VP"
+        href: Pres_VP.qmd
+      - text: "DPD"
+        href: DPD.qmd
+      - text: "DPR"
+        href: DPR.qmd
 
 format:
   html:
