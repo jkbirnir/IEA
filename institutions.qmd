@@ -1,8 +1,6 @@
 ---
-title: "Institutions"
+title: "Election Law"
 ---
-
-## Election Law
 
 The below organization of election law corresponds to Table 4 in Agustyati et al.
 
