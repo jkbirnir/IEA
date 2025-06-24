@@ -16,4 +16,4 @@ For generic code for scraping pdf files see:
 
 Note that the code needs to be modified to fit the file and any information scraped this way needs to be cleaned.
 
-© 2024 Jóhanna K Birnir.
+© 2025 Jóhanna K Birnir.
