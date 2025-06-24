@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Indonesia Election Archive",
     "section": "",
-    "text": "The data available here is described in further detail in the accompanying paper, which should be cited as:\nAgustyati, K. N., Pratama, H. M., Birnir, J. K., Overos, H., Okthariza, N., Kholidin, I., Ramadhanil, F., & Savirani, A. (2025). Indonesia Election Archive (IEA). Working paper DOI:10.17605/OSF.io/hjqzd\nFor further project and variable information see:\nCodebook\nThe code used to generate the descriptives and the spatial illustrations of the data are all available here:\nFor code see:\nCode\n© 2024 Jóhanna K Birnir."
+    "text": "The data available here is described in further detail in the accompanying paper. Please cite as:\nAgustyati, K. N., Pratama, H. M., Birnir, J. K., Overos, H., Okthariza, N., Kholidin, I., Ramadhanil, F., & Savirani, A. (2025). Indonesia Election Archive (IEA). Working paper DOI:10.17605/OSF.io/hjqzd\nFor further project and variable information see:\nCodebook\nThe code used to generate the descriptives and the spatial illustrations of the data are all available here:\nFor generic code for scraping pdf files see:\nFile_scraper\nNote that the code needs to be modified to fit the file and any information scraped this way needs to be cleaned.\n© 2024 Jóhanna K Birnir."
   },
   {
     "objectID": "candidate.html",
