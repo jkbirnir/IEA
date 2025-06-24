@@ -6,4 +6,4 @@
 
 Please cite as:
 
-Khoirunnisa Agustyati, Heroik Pratama, Fadli Ramadhanil, Johanna K. Birnir, Henry Overos and Amalinda Savirani. 2024. Indonesian election archive: Institutions, candidates and results. Working paper.
+Agustyati, K. N., Pratama, H. M., Birnir, J. K., Overos, H., Okthariza, N., Kholidin, I., Ramadhanil, F., \& Savirani, A. (2025). Indonesia Election Archive (IEA). DOI 10.17605/OSF.IO/HJQZD 
