@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Indonesia Election Archive",
     "section": "",
-    "text": "The data available here is described in further detail in the accompanying paper. Please cite as:\nAgustyati, K. N., Pratama, H. M., Birnir, J. K., Overos, H., Okthariza, N., Kholidin, I., Ramadhanil, F., & Savirani, A. (2025). Indonesia Election Archive (IEA). Working paper DOI:10.17605/OSF.io/hjqzd\nAugustyati et al 2025. Errata\nDPRv2\nFor further project and variable information see:\nCodebook\nFor generic code for scraping pdf files see:\nFile_scraper\nNote that the code needs to be modified to fit the file and any information scraped this way needs to be cleaned.\n© 2025 Jóhanna K Birnir."
+    "text": "The data available here is described in further detail in the accompanying paper. Please cite as:\nAgustyati, K. N., Pratama, H. M., Birnir, J. K., Overos, H., Okthariza, N., Kholidin, I., Ramadhanil, F., & Savirani, A. (2025). Indonesia Election Archive (IEA). Working paper DOI:10.17605/OSF.io/hjqzd\nAugustyati et al 2025. Errata\nFor further project and variable information see:\nCodebook\nFor generic code for scraping pdf files see:\nFile_scraper\nNote that the code needs to be modified to fit the file and any information scraped this way needs to be cleaned.\n© 2025 Jóhanna K Birnir."
   },
   {
     "objectID": "candidate.html",
@@ -109,6 +109,6 @@
     "href": "DPR.html",
     "title": "DPR",
     "section": "",
-    "text": "The information provided here pertains to the Lower House of the National Legislature. The files contain information on candidates and results. The data are described in the codebook and organized here by administrative granularity and temporal coverage.\n\n\n\nAdministrative Unit\nYears (inclusive)\nFile type\n\n\n\n\nDistrict\n2014-2024\nCSV"
+    "text": "The information provided here pertains to the Lower House of the National Legislature. The files contain information on candidates and results. The data are described in the codebook and organized here by administrative granularity and temporal coverage. The file here is v2 - with errors fixed as described on the index page.\n\n\n\nAdministrative Unit\nYears (inclusive)\nFile type\n\n\n\n\nDistrict\n2014-2024\nCSV"
   }
 ]

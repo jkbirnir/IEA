@@ -8,8 +8,6 @@ Agustyati, K. N., Pratama, H. M., Birnir, J. K., Overos, H., Okthariza, N., Khol
 
 [Augustyati et al 2025. Errata](Updates_since_2025.pdf)
 
-[DPRv2](DPRv2.xlsx)
-
 For further project and variable information see:
 
 [Codebook](Codebook.pdf)

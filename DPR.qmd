@@ -2,9 +2,9 @@
 title: "DPR"
 ---
 
-The information provided here pertains to the Lower House of the National Legislature. The files contain information on candidates and results. The data are described in the codebook and organized here by administrative granularity and temporal coverage. 
+The information provided here pertains to the Lower House of the National Legislature. The files contain information on candidates and results. The data are described in the codebook and organized here by administrative granularity and temporal coverage. The file here is v2 - with errors fixed as described on the index page.
 
 | Administrative Unit | Years (inclusive) | File type      |
 |---------------------|-------------------|----------------|
-| District            | 2014-2024         | [CSV](DPR.csv) |
+| District            | 2014-2024         | [CSV](DPRv2.csv) |
 |                     |                   |                |
